@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gw2-raids/static/css/main.d1b05096.chunk.css",
+    "main.js": "/gw2-raids/static/js/main.1c3fdaf6.chunk.js",
+    "main.js.map": "/gw2-raids/static/js/main.1c3fdaf6.chunk.js.map",
+    "runtime-main.js": "/gw2-raids/static/js/runtime-main.2e50269e.js",
+    "runtime-main.js.map": "/gw2-raids/static/js/runtime-main.2e50269e.js.map",
+    "static/js/2.c7887795.chunk.js": "/gw2-raids/static/js/2.c7887795.chunk.js",
+    "static/js/2.c7887795.chunk.js.map": "/gw2-raids/static/js/2.c7887795.chunk.js.map",
+    "index.html": "/gw2-raids/index.html",
+    "precache-manifest.522e7c39b0ff7f486e34e4e60b618614.js": "/gw2-raids/precache-manifest.522e7c39b0ff7f486e34e4e60b618614.js",
+    "service-worker.js": "/gw2-raids/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/gw2-raids/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c7887795.chunk.js.LICENSE.txt": "/gw2-raids/static/js/2.c7887795.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gw2-raids/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e50269e.js",
+    "static/js/2.c7887795.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1c3fdaf6.chunk.js"
+  ]
+}
